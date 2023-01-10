@@ -92,7 +92,7 @@ PUT test
 spark-submit  --master local --driver-memory 2g --executor-memory 1g --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.3.0,org.elasticsearch:elasticsearch-spark-30_2.12:7.17.0 consumer_es.py
 
 ```
-6. Run the calcul_distance.py 
+7. Run the calcul_distance.py 
 ``` shell
 spark-submit  --master local --driver-memory 2g --executor-memory 1g --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.3.0 calcul_distance.py
 ```
