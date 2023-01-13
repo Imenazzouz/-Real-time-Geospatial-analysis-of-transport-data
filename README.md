@@ -104,6 +104,5 @@ Using the kibana dashboard we can visualise a map with the trajectory travelled 
 
 ## Contribution
 
-Imen Azzouz
-
-Toumi Mohamed Amine
+* Imen Azzouz
+* Toumi Mohamed Amine
